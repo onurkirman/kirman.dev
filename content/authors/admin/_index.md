@@ -1,7 +1,7 @@
 ---
 title: Onur Kirman
 role: M.Sc. in Computer Science
-avatar_filename: profilepicture.jpg
+avatar_filename: avatar.jpg
 bio: I have been motivated to enhance my knowledge about the topics such as; AI,
   Deep Learning, Network, Computer Vision, and IoT areas and trying to find the
   best route for myself.
