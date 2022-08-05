@@ -42,6 +42,4 @@ highlight_name: true
 ---
 I am a Graduate Student at Ozyegin University and a Research Assistant at Ozyegin VisionLab. I have passion to areas of Machine Learning and Computer Vision. Currently, I have been working on a Anomaly Detection research.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
