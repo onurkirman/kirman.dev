@@ -30,15 +30,16 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Machine Learning
+  - Artificial Intelligence
+  - Deep Learning
 
 categories:
-  - Demo
-  - 教程
+  - ML
+  - AI
+  - DL
 ---
 
 ## Overview
