@@ -1,6 +1,6 @@
 ---
 title: Onur Kirman
-role: M.Sc. in Computer Science at Ozyegin University
+role: M.Sc. in Computer Science
 avatar_filename: profilepicture.jpg
 bio: I have been motivated to enhance my knowledge about the topics such as; AI,
   Deep Learning, Network, Computer Vision, and IoT areas and trying to find the
