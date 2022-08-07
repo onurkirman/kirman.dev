@@ -1,27 +1,40 @@
+{{< cta cta_text="See All" cta_link="post" cta_new_tab="true" >}}
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-widget_id: Recent Posts
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
 weight: 60
-title: '{\n  < cta cta_text=\"Recent Posts\" cta_link=\"post\"
-  cta_new_tab=\"true\" >\n}'
-subtitle: null
+
+title: Recent Posts
+subtitle: 
+
 content:
+  # Filter on criteria
   filters:
     folders:
       - post
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
   count: 5
+  # Choose how many pages you would like to offset by
   offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
+  # Choose a view for the listings:
   view: compact
-  columns: "2"
+  columns: '2'
 ---
-{{< cta cta_text="See All" cta_link="post" cta_new_tab="true" >}}
+
