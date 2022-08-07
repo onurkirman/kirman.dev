@@ -26,7 +26,7 @@ date_format: '2006'
 #  Artificial Intelligence Summer School (2017)
 
 item:
-  - certificate_url: 'kirman.dev/uploads/bayoyo-cert.png'
+  - certificate_url: '/uploads/bayoyo-cert.png'
     date_end: ''
     date_start: '2022-01-01'
     description: 'The purpose of the summer school is to refresh the basic knowledge required for research in the following areas, to provide information about the latest research developments, to bring together industry and graduate students, to provide interaction between thesis students and instructors who are experts in their fields.
