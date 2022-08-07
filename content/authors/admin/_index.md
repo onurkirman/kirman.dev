@@ -47,5 +47,5 @@ highlight_name: true
 ---
 I am a Graduate Student at Ozyegin University and a Research Assistant at Ozyegin VisionLab. I have passion to areas of Machine Learning and Computer Vision. Currently, I have been working on a Anomaly Detection research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
+{{< icon name="floppy-disk" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
 <!-- {{< cta cta_text="resumé" cta_link="uploads/resume.pdf" cta_new_tab="true" >}} -->
