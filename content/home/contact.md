@@ -54,7 +54,7 @@ content:
 
 design:
   columns: '2'
-  view: compact
+  view: '5'
   # background:
   #   color: 'white'
   #   text_color_light: true
