@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: CV
+  - name: CV/Resume
     url: uploads/resume.pdf
     weight: 70
 # Link to a PDF of your resume/CV from the menu.
