@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:onur@kirman.dev
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/onur_kirman
@@ -22,21 +22,26 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/onurkirman
+  - display:
+      header: false
+    icon_pack: fas
+    icon: phone
+    link: /#contact
 organizations:
   - name: Ozyegin University
     url: https://www.ozyegin.edu.tr/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: M.Sc. in Computer Science
+      institution: Ozyegin University
+      year: 2023
+    - course: B.Sc. in Computer Science
+      institution: Ozyegin University
+      year: 2021
+    - course: B.Sc. in Electrical & Electronics Engineering
+      institution: Ozyegin University
+      year: 2021
+email: onur@kirman.dev
 superuser: true
 highlight_name: true
 ---
