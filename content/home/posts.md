@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: {{< cta cta_text="Recent Posts" cta_link="post" cta_new_tab="true" >}}
 subtitle: 
 
 content:
