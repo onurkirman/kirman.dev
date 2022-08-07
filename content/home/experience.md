@@ -22,28 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: Ozyegin University
+    company_url: 'https://www.ozyegin.edu.tr/en'
+    company_logo: ozyegin-logo
+    location: Istanbul
+    date_start: '2021-09'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Researching on Computer Vision appliances of Machine Learning
+        * Organizing/Grading course materials
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Project Engineer, R&D
+    company: Arçelik Global
+    company_url: 'https://www.arcelikglobal.com/en/'
+    company_logo: arcelik-logo
+    location: Istanbul
+    date_start: '2021-06'
+    date_end: '2021-10'
+    description: |2-
+        * Developed domestic robotic vacuum cleaners’ software using Python and ROS
+        * Worked on the detection of specular reflection on surfaces in 2D LiDAR scans
+
+  - title: Software Developer, Intern
+    company: Intertech IT
+    company_url: 'https://www.intertech.com.tr/en/'
+    company_logo: intertech-logo
+    location: Istanbul
+    date_start: '2019-08'
+    date_end: '2021-09'
+    description: |2-
+        * Developed a Full-Stack project using React JS and Express JS technologies in Agile methodology
+        * Evolved the team’s old fashion shift system into a dynamic and modern Web API service
+
+  - title: Software Developer, Intern
+    company: Logo Software
+    company_url: 'https://www.logo.com.tr/en'
+    company_logo: logosoft-logo
+    location: Istanbul
+    date_start: '2019-06'
+    date_end: '2019-07'
+    description: |2-
+        * Developed a Java EE Spring Boot Rest API with the use of Jenkins
+        * Accomplished the project using Continuous Integration concept with a DevOps project plan
 
 design:
   columns: '2'
