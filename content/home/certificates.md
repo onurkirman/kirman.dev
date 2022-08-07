@@ -29,10 +29,10 @@ item:
   - certificate_url: '/uploads/bayoyo-cert.png'
     date_end: ''
     date_start: '2022-01-01'
-    description: 'The purpose of the summer school is to refresh the basic knowledge required for research in the following areas, to provide information about the latest research developments, to bring together industry and graduate students, to provide interaction between thesis students and instructors who are experts in their fields.
+    description: 'The purpose of the summer school was to refresh the basic knowledge required for research in the following areas, to provide information about the latest research developments, to bring together industry and graduate students, to provide interaction between thesis students and instructors who are experts in their fields.
     
     computer vision, artificial neural networks, deep learning, robotics, bioinformatics, natural language'
-    organization: BAYÖYO 2022 - Artificial Intelligence Summer School
+    organization: BAYÖYO - Artificial Intelligence Summer School
     organization_url: https://yazokulu.bilimakademisi.org/yapayogrenme/2022/
     title: New Approaches and Appliances of Artificial Learning 
     url: ''
