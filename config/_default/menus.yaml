@@ -11,10 +11,15 @@ main:
     url: '#experience'
     weight: 20
   - name: Posts
-    url: '#posts'
+    identifier: posts
+    url: '/post'
     weight: 30
+  - name: Posts
+    parent: posts
+    url: '#posts'
+    weight: 10
   - name: Projects
-    url: '#projects'
+    url: '/project'
     weight: 40
   - name: Publications
     url: '#featured'
