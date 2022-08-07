@@ -55,4 +55,7 @@ content:
 design:
   columns: '2'
   view: compact
+  # background:
+  #   color: 'white'
+  #   text_color_light: true
 ---
