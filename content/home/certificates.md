@@ -1,7 +1,7 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the certificates widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: certificates
 
 # This file represents a page section.
 headless: true
@@ -17,7 +17,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
+# certificates.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
