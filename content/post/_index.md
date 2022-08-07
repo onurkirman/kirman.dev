@@ -13,4 +13,3 @@ header:
   caption: ''
   image: ''
 ---
-{{< cta cta_text="See All" cta_link="post" cta_new_tab="true" >}}
