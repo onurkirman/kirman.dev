@@ -54,4 +54,5 @@ content:
 
 design:
   columns: '2'
+  view: '2'
 ---
