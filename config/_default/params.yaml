@@ -16,15 +16,15 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'ProfessionalService'
     org_name: 'kirman'
-    description: 'Academic Resume Website'
+    description: ''
     twitter: 'onur_kirman'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'https://www.googletagmanager.com/gtag/js?id=G-STB5FERRK9'
     baidu: ''
 
 # Site header
