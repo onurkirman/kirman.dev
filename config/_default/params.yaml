@@ -21,7 +21,7 @@ marketing:
     description: ''
     twitter: 'onur_kirman'
   analytics:
-    google_analytics: 'https://www.googletagmanager.com/gtag/js?id=G-STB5FERRK9'
+    google_analytics: 'G-STB5FERRK9'
     baidu_tongji: ''
   verification:
     google: ''
