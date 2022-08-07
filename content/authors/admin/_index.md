@@ -38,10 +38,10 @@ education:
     - course: B.Sc. in Computer Science
       institution: Ozyegin University
       year: 2021
-    - course: B.Sc. in Electrical & Electronics Engineering
+    - course: B.Sc. in Electrical & Electronics Eng.
       institution: Ozyegin University
       year: 2021
-email: onur@kirman.dev
+email: ""
 superuser: true
 highlight_name: true
 ---
