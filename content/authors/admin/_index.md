@@ -21,7 +21,7 @@ social:
     link: https://github.com/onurkirman
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/onurkirman
+    link: https://www.linkedin.com/in/onurkirman/
   - display:
       header: false
     icon_pack: fas
