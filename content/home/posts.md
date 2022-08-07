@@ -1,4 +1,3 @@
-{{< cta cta_text="See All" cta_link="post" cta_new_tab="true" >}}
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -37,4 +36,4 @@ design:
   view: compact
   columns: '2'
 ---
-
+{{< cta cta_text="See All" cta_link="post" cta_new_tab="true" >}}
