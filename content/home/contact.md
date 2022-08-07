@@ -53,8 +53,8 @@ content:
     #   link: 'https://zoom.com'
 
 design:
+  view: compact
   columns: '2'
-  view: '5'
   # background:
   #   color: 'white'
   #   text_color_light: true
