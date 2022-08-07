@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: 'ProfessionalService'
-    org_name: 'kirman'
-    description: ''
+    org_name: 'Onur Kirman's Personal Website'
+    description: 'Onur Kirman's Personal Website where you can find everything about him. From his background information to recent researches and projects with contact information.'
     twitter: 'onur_kirman'
   analytics:
     google_analytics: 'G-STB5FERRK9'
